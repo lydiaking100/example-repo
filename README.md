@@ -1,3 +1,5 @@
 # example-repo
-# Nike shoe inventory task
-# This code allows for store managers to view and change their inventory based on a menu of options
+# Menu python task
+
+
+# This code create dictionaries for stock and their corresponding prices and returns the total value of the stock.
